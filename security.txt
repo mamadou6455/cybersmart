@@ -1,0 +1,11 @@
+Contact: mailto:cybersmart223@gmail.com
+Contact: https://wa.me/22392731209
+Preferred-Languages: fr, en
+Canonical: https://cybersmart.example.com/.well-known/security.txt
+Policy: https://cybersmart.example.com/
+Acknowledgments: https://cybersmart.example.com/
+Encryption: https://cybersmart.example.com/
+Hiring: https://cybersmart.example.com/
+
+Ce fichier est un point d'entrée de sécurité publique. Pour signaler une vulnérabilité,
+contactez-nous par e-mail ou WhatsApp.

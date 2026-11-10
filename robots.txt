@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: http://localhost/MES_PROJETS/APPLICATIONS_WEB/Site_Cyber_Smart/sitemap.xml
